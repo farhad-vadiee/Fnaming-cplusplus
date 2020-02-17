@@ -1,5 +1,5 @@
 # Fnaming-cplusplus
- This is the way, I use for naming in c++!. This is not standard.
+ This is the way, I use for naming in c++! This is **not standard**.
  # Files
  I name files with **not capital** letters, and **-** between names with several parts.
  > my_file_name
